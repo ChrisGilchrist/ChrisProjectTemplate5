@@ -3,4 +3,4 @@ hello :)
 Reference-style: 
 ![alt text][minio.png]
 
-Chris :_)
+Chris :)
