@@ -1,7 +1,7 @@
 hello :)
 
-Reference-style: 
-![alt text][minio.png]
+![screenshot](minio.png)
+
 
 Chris :)
 
