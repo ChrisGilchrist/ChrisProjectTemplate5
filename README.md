@@ -1,8 +1,6 @@
 hello :)
 
 Reference-style: 
-![alt text][logo]
-
-[logo]: minio.png
+![alt text][minio.png]
 
 Chris :_)
